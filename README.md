@@ -7,6 +7,7 @@ In the Java Programming section, we provide introductory materials and examples 
     Variables and Data Types
     Control Flow (if-else statements, loops)
     Functions and Methods
+
 In the Data Structures and Algorithms section, we dive deeper into critical topics, including:
 
     Sorting Algorithms (e.g., Bubble Sort, Merge Sort)
