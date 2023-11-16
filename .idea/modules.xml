@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Data-Structures-and-Algorithms.iml" filepath="$PROJECT_DIR$/Data-Structures-and-Algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEARCHING METHOD/SEARCHING METHOD.iml" filepath="$PROJECT_DIR$/SEARCHING METHOD/SEARCHING METHOD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SORTING METHOD/SORTING METHOD.iml" filepath="$PROJECT_DIR$/SORTING METHOD/SORTING METHOD.iml" />
+    </modules>
+  </component>
+</project>
