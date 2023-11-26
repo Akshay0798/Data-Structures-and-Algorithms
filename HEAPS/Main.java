@@ -85,7 +85,7 @@ class Main {
             return temp;
         }
 
-        // Move an element down the heap to maintain the heap property
+        // ? Move an element down the heap to maintain the heap property
         private void downheap(int index) {
             int min = index;
             int left = left(index);
