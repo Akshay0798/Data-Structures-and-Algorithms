@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Main {
+class heapsMain {
     public static void main(String[] args) throws Exception {
         // Create an instance of the IntHeap class
         IntHeap heap = new IntHeap();
