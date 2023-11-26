@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class fuctionMain {
     public static void main(String[] args) {
 
 //        sum(); //it is function call...whatever the value is written function call return the value
